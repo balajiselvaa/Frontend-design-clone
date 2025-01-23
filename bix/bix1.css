@@ -1,0 +1,245 @@
+.logo{
+    margin-top: auto;
+    margin-left:130px;
+}
+.content1{
+    color: white;
+    margin-top: -600px;
+    margin-left: 150px;
+    font-size: 25px;
+    font-weight: 800;
+   
+}
+.pic{
+    margin-left: 580px;
+    margin-top: -550px;
+}
+.btn{
+    height: 65px;
+    width: 545px;
+    background-color: #E4322B;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+
+form .lab1 input{
+    width: 400px;
+    margin-bottom: 15px;
+    padding : 10px;
+    
+}
+ form h3{
+    text-align: center;
+}
+.lab3 input{
+    width: 400px;
+    margin-bottom: 15px;
+    padding : 10px;
+    
+}
+.lab3,label{
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: #555;
+    font-weight: bold;
+}
+label {
+
+   padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: #555;
+    font-weight: bold;
+}
+
+
+.body1{
+    margin-left: 500px;
+    margin-top: 20px;
+    
+    
+
+}
+fieldset{
+    background-color:white;
+}
+.container2{
+    background-image: url(https://www.bixitacademy.com/lp1/assets/img/form-bk.webp);
+    height: 1500px;
+    padding-top: 50px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+.apply h1{
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-size: 36px;
+    margin-top: 110px;
+}
+
+.con1 p{
+    font-size: 25px;
+    font-weight: 550;
+    padding-left: 90px;
+    font-family: Montserrat, sans-serif;
+    color: #231F20;
+   
+}
+.con1{
+    margin-left:50px ;
+    margin-right:800px;
+    margin-top:80px;
+}
+.pic1{
+    margin-left: 800px;
+    margin-top: -420px;
+}
+.b3{
+    margin-left: 500px;
+ }
+ .btn1{
+    height: 45px;
+    width: 400px;
+    background-color: #E4322B;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ .container3{
+    background-color: #231F20;
+    height: 550px;
+    margin-top: 50px;
+ }
+ .box1,.box2,.box3,.box4{
+    height: 160px;
+    width: 490px;
+    background-color: white;
+ }
+ .img1,.img2,.img3,.img4{
+    padding-top: 30px;
+    
+ }
+ .hed1,.hed2,.hed3,.hed4{
+    padding-left: 110px;
+    margin-top: -90px;
+
+ }
+ .par1,.par2,.par3,.par4{
+    margin-left: 110px;
+    margin-top: -10px;
+ }
+ .rows{
+    display: grid;
+    grid-template-columns: 490px 490px;
+    justify-content: center;
+    gap: 20px;
+    
+ }
+ 
+ .boxx1,.boxx2,.boxx3,.boxx4{
+    height: 250px;
+    width: 250px;
+    color: white;
+    text-align: center;
+    background-color: rgb(231, 235, 235);
+
+   
+ }
+ .imgg1,.imgg2,.imgg3,.imgg4{
+    padding-top: 30px;
+    padding-left: -20px;
+   
+ }
+ .hedd1,.hedd2,.hedd3,.hedd4{
+    margin-top: -3px;
+    margin-left: 10px;
+    color: red;
+    font-size: 18px;
+    font-weight:bold ;
+    
+ }
+ .parr1,.parr2,.parr3,.parr4{
+    margin-top: -15px;
+    padding-left: 10px;
+    color: grey;
+    font-size: 17px;
+ }
+ .rows1{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    justify-content: center;
+ }
+ .btn2{
+    height: 60px;
+    width: 550px;
+    background-color: #E4322B;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 25px;
+    cursor: pointer;
+ }
+ .container4 h1{
+   font-family:  Montserrat, sans-serif;
+   color: #231F20;
+ }
+ .container5{
+    background-image: url(https://www.bixitacademy.com/lp1/assets/img/social-bgk.webp);
+    height: 450px;
+    width: 100%;
+    margin-top: 70px;
+ }
+ .b1,.bb2,.bb3,.b4{
+    height: 125px;
+    width: 255px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 15px;
+ }
+ .bh1,.bh2,.bh3,.bh4{
+    font-size:50px ;
+    margin-top: 7px;
+    color: red;
+ }
+ .bp1,.bp2,.bp3,.bp4{
+margin-top:-35px;
+font-size: larger;
+ }
+ .rows2{
+    display: grid;
+    grid-template-columns: 255px 255px 255px 255px;
+    justify-content: center;
+    gap: 20px;
+ }
+ footer{
+    background-color: #231F20;
+    height: 140px;
+    margin-top: 600px;
+ }
+ .footimg{
+
+    padding-top: 20px;
+    padding-left: 700px;
+    margin-bottom: 10px;
+    
+ }
+ .last{
+    display: flex;
+    justify-content: center;
+    gap: 600px;
+    
+    border-top: 2px ridge grey;
+    color: white;
+ }
+ .lastpic{
+   height: 100px;
+   width: 100%;
+ }
+  
